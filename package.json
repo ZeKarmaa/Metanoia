@@ -1,0 +1,1 @@
+{\n  "name": "points-tracker",\n  "version": "1.0.0",\n  "description": "A points tracker application",\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.10.9",\n    "cors": "^2.8.5",\n    "dotenv": "^8.2.0"\n  }\n}
